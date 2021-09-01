@@ -1,4 +1,4 @@
-# Statistical-Methods-Class-Project
+# Statistical Methods Class Project
 The broader goal of this project is to implement the topics covered in the Course Syllabus in a real-life situation. 
 All the groups were given data (sets of numbers) demonstrating 
 1) the daily ETF return
