@@ -1,5 +1,5 @@
 # Statistical Methods Class Project
-The broader goal of this project is to implement the topics covered in the Course Syllabus in a real-life situation. 
+The broader goal of this project is to implement the topics covered in the Statistical Methods Course on real data. 
 We have received datasets of daily ETF return, daily relative change in the price of the crude oil, daily relative change in the gold prices and the daily return of the JPMorgan stock.
 
 Project steps:-
